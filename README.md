@@ -1,6 +1,6 @@
 # Wookiee Outpost Comms
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/adz80/wookie-outpost-server-lb)
 
 A visually striking single-page web application designed to demonstrate server load balancing through a retro, Star Wars-inspired 'Wookiee Outpost' theme. The application's core purpose is to make a client-side API call to a relative `/api` endpoint and display the name of the server that responded. This simulates a user's request being routed by a load balancer to one of several available server instances.
 
@@ -76,4 +76,4 @@ This project is configured for easy deployment to Cloudflare Pages.
 
 Alternatively, you can deploy directly from your GitHub repository with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/adz80/wookie-outpost-server-lb)
